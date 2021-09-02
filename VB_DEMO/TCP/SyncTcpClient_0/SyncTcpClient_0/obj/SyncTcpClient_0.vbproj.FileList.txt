@@ -1,0 +1,3 @@
+obj\Debug\SyncTcpClient_0.exe
+obj\Debug\SyncTcpClient_0.xml
+obj\Debug\SyncTcpClient_0.pdb

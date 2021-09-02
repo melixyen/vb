@@ -1,0 +1,3 @@
+obj\Debug\SyncTCPServer_1.exe
+obj\Debug\SyncTCPServer_1.xml
+obj\Debug\SyncTCPServer_1.pdb

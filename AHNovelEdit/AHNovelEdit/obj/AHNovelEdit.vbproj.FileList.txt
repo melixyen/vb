@@ -1,0 +1,15 @@
+obj\Debug\AHNovelEdit.exe
+obj\Debug\AHNovelEdit.xml
+obj\Debug\AHNovelEdit.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AHNovelEdit.FormEdit.resources
+obj\Debug\AHNovelEdit.Resources.resources
+obj\Debug\AHNovelEdit.vbproj.GenerateResource.Cache
+bin\Debug\AHNovelEdit.exe
+bin\Debug\AHNovelEdit.pdb
+bin\Debug\AHNovelEdit.xml
+obj\Debug\AHNovelEdit.FormBackup1.resources
+obj\Debug\AHNovelEdit.FormSearch.resources
+obj\Debug\AHNovelEdit.FormSet.resources
+obj\Debug\AHNovelEdit.FormResUse.resources
+obj\Debug\AHNovelEdit.FormAbout.resources

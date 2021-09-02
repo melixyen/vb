@@ -1,0 +1,10 @@
+D:\DemoCode\VB_Socket\SyncTCPServer_1\SyncTCPServer_1\bin\Debug\SyncTCPServer_1.exe
+D:\DemoCode\VB_Socket\SyncTCPServer_1\SyncTCPServer_1\bin\Debug\SyncTCPServer_1.pdb
+D:\DemoCode\VB_Socket\SyncTCPServer_1\SyncTCPServer_1\bin\Debug\SyncTCPServer_1.xml
+D:\DemoCode\VB_Socket\SyncTCPServer_1\SyncTCPServer_1\obj\Debug\ResolveAssemblyReference.cache
+D:\DemoCode\VB_Socket\SyncTCPServer_1\SyncTCPServer_1\obj\Debug\SyncTCPServer_1.Form1.resources
+D:\DemoCode\VB_Socket\SyncTCPServer_1\SyncTCPServer_1\obj\Debug\SyncTCPServer_1.Resources.resources
+D:\DemoCode\VB_Socket\SyncTCPServer_1\SyncTCPServer_1\obj\Debug\SyncTCPServer_1.vbproj.GenerateResource.Cache
+D:\DemoCode\VB_Socket\SyncTCPServer_1\SyncTCPServer_1\obj\Debug\SyncTCPServer_1.exe
+D:\DemoCode\VB_Socket\SyncTCPServer_1\SyncTCPServer_1\obj\Debug\SyncTCPServer_1.xml
+D:\DemoCode\VB_Socket\SyncTCPServer_1\SyncTCPServer_1\obj\Debug\SyncTCPServer_1.pdb
